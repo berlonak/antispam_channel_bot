@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime data: forbidden words list and deletion log (contains user messages)
+data/
+spam.log
+*.log

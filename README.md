@@ -88,3 +88,7 @@ Commands (private chat, admins only):
 - `data/` and `spam.log` are created next to the script at startup. They hold runtime data
   (the blocklist and logged message text) and are excluded from Git.
 - There is no automated test suite.
+
+## License
+
+Copyright 2026 berlonak. Licensed under the [Apache License, Version 2.0](LICENSE).
